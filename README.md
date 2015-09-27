@@ -1,0 +1,2 @@
+# UIApplicationShortcutSample
+UIApplicationShortcutを試してみた。。。
