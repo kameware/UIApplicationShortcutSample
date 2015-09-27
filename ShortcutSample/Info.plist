@@ -62,7 +62,9 @@
 			<key>UIApplicationShortcutItemIconType</key>
 			<string>UIApplicationShortcutIconTypeCompose</string>
 			<key>UIApplicationShortcutItemTitle</key>
-			<string>New Post</string>
+            <string>New Post</string>
+            <key>UIApplicationShortcutItemSubtitle</key>
+            <string>subtitle~</string>
 			<key>UIApplicationShortcutItemType</key>
 			<string>ddd</string>
 			<key>UIApplicationShortcutItemUserInfo</key>
